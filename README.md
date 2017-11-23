@@ -2,6 +2,8 @@
 
 Python notebooks for an introduction to Tensorflow.
 
+Link to slides: https://github.com/larsmennen/intro_to_tensorflow/blob/master/Training%20neural%20networks%20using%20Tensorflow.pdf
+
 ## Python and Jupyter Notebook
 
 We assume you have Python installed (we'll use version 3).
