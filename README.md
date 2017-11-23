@@ -2,6 +2,12 @@
 
 Python notebooks for an introduction to Tensorflow.
 
+## Python and Jupyter Notebook
+
+We assume you have Python installed (we'll use version 3).
+
+It is also useful to install Jupyter Notebook to run interactive Python notebooks. See the installation instructions online: http://jupyter.readthedocs.io/en/latest/install.html
+
 ## Tensorflow installation
 
 Vanilla Python or virtualenv (CPU only):
